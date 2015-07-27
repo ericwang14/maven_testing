@@ -1,0 +1,5 @@
+<service>
+    <url>jdbc:hsqldb:mem:mydb</url>
+    <username>sa</username>
+    <password></password>
+</service>

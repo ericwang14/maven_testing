@@ -1,0 +1,5 @@
+#surefire
+#Mon Jul 27 15:34:44 PDT 2015
+user.dir=H\:\\workspace\\maven-testing\\sub_projects\\db
+localRepository=C\:\\Users\\ericw\\.m2\\repository
+basedir=H\:\\workspace\\maven-testing\\sub_projects\\db
